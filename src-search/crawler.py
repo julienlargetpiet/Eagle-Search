@@ -73,7 +73,7 @@ MARKDOWN_LINK = re.compile(r'!?\[[^\]]*\]\(\s*(<[^>]+>|[^\s)]+)')
 
 GIB = 1024 ** 3
 
-MAX_PAGE_DB_SIZE = 2 * GIB
+MAX_PAGE_DB_SIZE = 1 * GIB
 
 MIN_FRONTIER_FREE_GB = 1
 MIN_PAGE_FREE_GB = MAX_PAGE_DB_SIZE / GIB
