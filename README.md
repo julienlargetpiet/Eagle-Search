@@ -1,9 +1,9 @@
 
-<center>
+<p align="center">
 
 <img src="logo/logo.png" width="220">
 
-</center>
+</p>
 
 Eagle-Search is a multithreaded web crawler written in Python. It discovers URLs, extracts links from textual resources, and stores page contents in SQLite databases.
 
