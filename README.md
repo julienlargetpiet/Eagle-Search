@@ -1,7 +1,7 @@
 
 <center>
 
-<img src="logo/logo.png">
+<img src="logo/logo.png" width="220">
 
 </center>
 
